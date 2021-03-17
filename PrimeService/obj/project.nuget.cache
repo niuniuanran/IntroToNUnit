@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kapJGpPM0qcZEkJ8TG80sMS9FQKIizlo3NZvRYb1FuE4GH4MZK9K9RwKAJVIrosNtkMOPZZzqUFsHAvVgaoS+A==",
+  "success": true,
+  "projectFilePath": "/Users/anran/Desktop/unit-testing-using-nunit/PrimeService/PrimeService.csproj",
+  "expectedPackageFiles": [
+    "/Users/anran/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/anran/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
